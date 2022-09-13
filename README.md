@@ -2,5 +2,5 @@
 - 🦀 Rust
 - ☕ Java(Main)
 - 🐍 Python
-- 🇯 Javascript
-
+- Javascript
+I also use Arch Btw
