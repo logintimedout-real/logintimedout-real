@@ -3,4 +3,4 @@
 - ☕ Java(Main)
 - 🐍 Python
 - Javascript
-I also use Arch Btw
+- I also use Arch Btw
