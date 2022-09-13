@@ -1,9 +1,8 @@
-- 👀 Languages I Code And Learning RN
-- 🌱 Rust
-- 💞️ Java
-- 💞️ Python
-- 💞️ C#
-- 💞️ Javascript
-- 💞️ C++
-
+- Languages I Code And Learning RN
+- ✔️ Rust
+- ✔️ Java
+- ✔️ Python
+- ✔️ C#
+- ✔️ Javascript
+- ✔️ C++
 
