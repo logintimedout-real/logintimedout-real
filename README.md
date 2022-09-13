@@ -1,7 +1,7 @@
 - Languages I Code And Learning RN
-- ✔️ Rust
+- 🦀 Rust
 - ✔️ Java
-- ✔️ Python
+- 🐍 Python
 - ✔️ C#
 - ✔️ Javascript
 - ✔️ C++
